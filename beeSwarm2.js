@@ -582,7 +582,7 @@ window.playerGear={
 
             },
             desc:'A playful hat that keeps the sun out of your eyes.<br><br>x1.2 pollen<br>x1.05 bee ability rate<br>+10% defense<br>x1.1 jump power',
-            cost:['2500000 honey','15 gumdrops','10 pineapple','1 moonCharm'],
+            cost:['2500000 honey','0 gumdrops','0 pineapple','0 moonCharm'],
         },
 
         beekeeperMask:{
